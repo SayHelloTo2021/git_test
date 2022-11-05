@@ -1,0 +1,2 @@
+Hello Git!
+   You will be my work partner!
