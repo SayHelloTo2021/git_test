@@ -7,3 +7,4 @@ the pipeline, the output qualified image for w-
 atch viewers!
    GitHub Edit!
    Clone SSH!
+   git pull!
