@@ -1,2 +1,5 @@
 Hello Git!
    You will be my work partner!
+   isp pipeline means sensor raw image run pass
+the pipeline, the output qualified image for w-
+atch viewers!
